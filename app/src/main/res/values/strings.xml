@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="Welcome_to_the_App">Welcome to the App! The App is LOCKED!</string>
+    <string name="second_page">ACCESSCONTROL</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
